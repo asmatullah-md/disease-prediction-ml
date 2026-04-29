@@ -17,7 +17,4 @@ This project predicts diseases based on symptoms using machine learning.
 2. Run all cells
 
 ## Results
-Achieved high accuracy with proper evaluation metrics.
-
-## Author
-MD Asmatullah
+Achieved accuracy with proper evaluation metrics is 78.66%.
